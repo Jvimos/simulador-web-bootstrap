@@ -1,0 +1,193 @@
+/* =========================
+   ESTILOS PROPIOS DEL PROYECTO
+   Simulador Web - UTPL
+========================= */
+
+
+/* Configuración general */
+
+body {
+
+    font-family: Arial, sans-serif;
+    background-color: #eef2f7;
+    color: #333;
+
+}
+
+
+
+/* Mejora de lectura */
+
+p {
+
+    line-height: 1.7;
+
+}
+
+
+
+/* Encabezados */
+
+h1, h2, h3 {
+
+    font-weight: 700;
+
+}
+
+
+
+/* Imágenes */
+
+img {
+
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+
+/* Contenedores personalizados */
+
+.contenido {
+
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+
+}
+
+
+
+/* Código mostrado */
+
+pre {
+
+    overflow-x: auto;
+    border-radius: 8px;
+    font-size: 0.95rem;
+
+}
+
+
+
+/* Enlaces */
+
+a {
+
+    transition: 0.3s ease;
+
+}
+
+
+a:hover {
+
+    opacity: 0.8;
+
+}
+
+
+
+/* Formularios */
+
+input,
+textarea {
+
+    border-radius: 8px !important;
+
+}
+
+
+
+/* Enfoque visible para accesibilidad */
+
+input:focus,
+textarea:focus {
+
+    outline: 3px solid rgba(13,110,253,.25);
+
+}
+
+
+
+/* Tablas */
+
+table {
+
+    border-radius: 8px;
+    overflow: hidden;
+
+}
+
+/* =========================
+   PIE DE PÁGINA
+========================= */
+
+footer {
+
+    margin-top: 30px;
+
+}
+
+
+
+/* =========================
+   MEJORAS RESPONSIVE
+========================= */
+
+@media(max-width:768px){
+
+
+    h1 {
+
+        font-size: 2rem;
+
+    }
+
+
+
+    h2 {
+
+        font-size: 1.5rem;
+
+    }
+
+
+
+    p {
+
+        font-size: 1rem;
+
+    }
+
+
+}
+
+
+
+/* =========================
+   MEJORAS DE ACCESIBILIDAD
+========================= */
+
+
+/* Evita textos demasiado pequeños */
+
+body {
+
+    font-size: 16px;
+
+}
+
+
+
+/* Facilita lectura de enlaces */
+
+a:focus,
+button:focus {
+
+    outline: 3px solid rgba(13,110,253,.5);
+
+    outline-offset: 3px;
+
+}
