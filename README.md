@@ -1,4 +1,4 @@
-# Simulador Educativo del Funcionamiento de la Web
+# Simulador-web-bootstrap
 
 ## Descripción
 
@@ -42,9 +42,13 @@ Simular_vimos_juan_Rediseño/
 ├── css/
 │   └── estilos.css
 │
-├── img/
+├── img
+│   ├── http.png
+│   ├── render.png
+│   ├── servidor.png
+│   └── url.png
 │
-└── js/
+└── README.md
 ```
 
 ## Autor
