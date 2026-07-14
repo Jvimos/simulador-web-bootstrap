@@ -71,7 +71,9 @@ simulador-web-bootstrap/
 │── http.png
 │── render.png
 │── servidor.png
-└── url.png
+├──url.png
+├──Antes.png
+└──Despues.png
 ```
 
 ## Autor
