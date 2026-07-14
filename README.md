@@ -67,7 +67,7 @@ simulador-web-bootstrap/
 ├── servidor.html
 ├── renderizado.html
 ├── ejemplo.html
-├── estilos.css
+├── estilo.css
 │── http.png
 │── render.png
 │── servidor.png
