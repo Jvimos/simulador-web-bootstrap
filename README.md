@@ -18,15 +18,22 @@ Bootstrap fue utilizado para implementar un diseño moderno, adaptable (responsi
 - Botones.
 - Formularios.
 - Alertas.
-- Accordion
-- Modal
-- Tablas
+- Accordion.
+- Modal.
+- Tablas.
 
 ## Tecnologías utilizadas
 
 - HTML5
 - CSS3
 - Bootstrap 5.3
+
+## Ventajas del framework utilizado
+
+El uso de Bootstrap permitió:
+
+- Crear interfaces responsive de manera rápida.
+- Utilizar componentes reutilizables para mejorar la consistencia visual.
 
 ## Accesibilidad y usabilidad aplicada
 
@@ -60,7 +67,7 @@ simulador-web-bootstrap/
 ├── servidor.html
 ├── renderizado.html
 ├── ejemplo.html
-├──estilos.css
+├── estilos.css
 │── http.png
 │── render.png
 │── servidor.png
