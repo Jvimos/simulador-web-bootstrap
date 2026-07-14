@@ -31,7 +31,7 @@ Bootstrap fue utilizado para implementar un diseño moderno, adaptable (responsi
 ## Estructura del proyecto
 
 ```
-Simular_vimos_juan_Rediseño/
+simulador-web-bootstrap/
 │
 ├── index.html
 ├── solicitud.html
