@@ -1,4 +1,4 @@
-# Simulador-web-bootstrap
+# # Simulador Educativo del Funcionamiento de la Web
 
 ## Descripción
 
@@ -27,7 +27,7 @@ Bootstrap fue utilizado para implementar un diseño moderno, adaptable (responsi
 - HTML5
 - CSS3
 - Bootstrap 5.3
-
+- 
 ## Ventajas del framework utilizado
 
 El uso de Bootstrap permitió:
@@ -43,7 +43,7 @@ Se implementaron mejoras enfocadas en la experiencia del usuario:
 - Diseño adaptable para móvil, tablet y escritorio.
 - Mejor organización visual del contenido.
 - Contraste adecuado entre texto y fondo.
-- texto alternativo en imágenes.
+- Texto alternativo en imágenes mediante el atributo alt.
 - Estados hover y focus en elementos interactivos.
 - Navegación clara mediante menú responsive.
 
